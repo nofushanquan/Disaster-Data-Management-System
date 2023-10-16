@@ -1,0 +1,28 @@
+{
+   "CODE":
+   [
+      {
+         "dataid":5,
+         "geodata":"51000000000020211205152056",
+         "infodata":"5100000000004430002",
+         "soucdata":"101"
+      }
+
+   ],
+   "DATAS":
+   [
+      {
+         "category":"泥石流",
+         "created":1638688856000,
+         "dataid":5,
+         "grade":2,
+         "latitude":"123",
+         "location":"四川",
+         "longitude":"133",
+         "magnitude":5.7,
+         "source":"公网"
+      }
+
+   ]
+
+}

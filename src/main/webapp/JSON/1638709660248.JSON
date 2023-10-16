@@ -1,0 +1,29 @@
+{
+   "DATAS":
+   [
+      {
+         "category":"基本震情",
+         "created":1210747964000,
+         "dataid":1,
+         "grade":6,
+         "latitude":"131",
+         "location":"中国四川",
+         "longitude":"122",
+         "magnitude":8.0,
+         "source":"公网"
+      },
+      {
+         "category":"地面沉降",
+         "created":1210747964000,
+         "dataid":6,
+         "grade":8,
+         "latitude":"144",
+         "location":"四川",
+         "longitude":"46",
+         "magnitude":6.5,
+         "source":"卫星定位"
+      }
+
+   ]
+
+}

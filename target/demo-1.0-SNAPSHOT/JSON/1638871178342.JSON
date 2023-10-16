@@ -1,0 +1,51 @@
+{
+   "DATAS":
+   [
+      {
+         "category":"基本震情",
+         "created":1210747964000,
+         "dataid":1,
+         "grade":6,
+         "latitude":"131",
+         "location":"中国四川",
+         "longitude":"122",
+         "magnitude":8.0,
+         "source":"公网"
+      },
+      {
+         "category":"泥石流",
+         "created":1638688856000,
+         "dataid":5,
+         "grade":2,
+         "latitude":"123",
+         "location":"四川",
+         "longitude":"133",
+         "magnitude":5.7,
+         "source":"公网"
+      },
+      {
+         "category":"地面沉降",
+         "created":1210747964000,
+         "dataid":6,
+         "grade":8,
+         "latitude":"144",
+         "location":"四川",
+         "longitude":"46",
+         "magnitude":6.5,
+         "source":"卫星定位"
+      },
+      {
+         "category":"崩塌",
+         "created":578306723000,
+         "dataid":7,
+         "grade":7,
+         "latitude":"109",
+         "location":"河北&唐山",
+         "longitude":"67",
+         "magnitude":8.0,
+         "source":"微博"
+      }
+
+   ]
+
+}

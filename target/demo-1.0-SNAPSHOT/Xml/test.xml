@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<disasterinfo>
+    <dataid>2</dataid>
+    <location>四川</location>
+    <longitude>156</longitude>
+    <latitude>22</latitude>
+    <category>基本震情</category>
+    <source>微博</source>
+    <grade>5</grade>
+    <magnitude>7.6</magnitude>
+    <created>2013-12-13 18:24:03</created>
+</disasterinfo>
